@@ -1,0 +1,61 @@
+body {
+  background-image: url('pexels-danbuilds-633409.jpg'); /* Replace with your image path or URL */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: -80px  ;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  height: 100vh;
+  padding: 2px 0 0 0 ;
+  font-family: 'arial', sans-serif;
+
+}
+.kahe{
+  font-family: 'times new roman', sans-serif; 
+  color: aliceblue;  
+  font-size: 70px;   
+  padding: 10px ;
+}
+/* .pad{
+    padding: 1px 50px 50px 80vh;
+} */
+.login-box {
+  border: 1px solid whitesmoke; 
+  padding: 0px 100px 100px 90px;
+  width:  200px;
+  margin: 100px auto;
+  border-radius: 10px; 
+  box-shadow: 0 0 10px rgba(0,0,0,0.1); 
+}
+.use{
+    border: 10px solid rgb(255, 255, 255);
+    border-radius: 30px; 
+}
+.pass{
+    border: 10px solid  rgb(255, 255, 255);
+    border-radius: 30px; 
+}
+.log{
+    padding: 20px 20px 20px 50px;
+
+
+}
+.but{
+    padding: 0px 20px 0px 30px;
+}
+.logine{
+        padding: 10px 20px 10px 50px;
+        color: aliceblue;
+}
+
+.dont{
+    padding:0px 0px 0px 20px ;
+
+}
+
+.reg:hover{
+    background-color: aliceblue;
+    color: red;
+} 
